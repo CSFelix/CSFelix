@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...-
 -->
 
-* 🌱 I'm currently a Science Computer Student that every search for and do projects with some programming and markup languages, like _Python, Java, HTML, CSS and JS_; and, some day I was thinking: "Well, I have ununseful projects (joke 😂😂), but, I would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, no? *GitHub!!!*
+* 🌱 I'm currently a Science Computer Student that always search for and do projects with some programming and markup languages, like _Python, Java, HTML, CSS and JS_; and, some day I was thinking: "Well, I have unuseful projects (joke 😂😂), and would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, no? *GitHub!!!*
 
 * 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio (when it is made, I gonna put the link here).
 
