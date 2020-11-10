@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio (when it is made, I gonna put the link here).
 
-* 💬 Fact: even I studying Science Computer's Bacharel, when finish the course, I gonna study Data Science (I'm thinking about Computer's Vision, so, if you know some online courses about the area, I will be glad to know!!)
+* 💬 Future Goal: even I studying Science Computer's Bacharel, when finish the course, I gonna study Data Science (I'm thinking about Computer's Vision, so, if you know some online courses about the area, I will be glad to know!!)
 ----
 
 #### 📫 Reach Me 📫
