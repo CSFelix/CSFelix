@@ -1,5 +1,7 @@
 ### 👋 Hi there, I'm here AHAHAHAHAHA 👋 (refferences 😐)
 
+<img src="https://img.shields.io/github/followers/CSFelix?style=social">
+
 <!--
 **CSFelix/CSFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,6 +22,15 @@ Here are some ideas to get you started:
 * 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio (when it is made, I gonna put the link here).
 
 * 💬 Future Goal: even I studying Science Computer's Bacharel, when finish the course, I gonna study Data Science (I'm thinking about Computer's Vision, so, if you know some online courses about the area, I will be glad to know!!)
+
+----
+
+### 💻 Stats 💻
+
+Stats                      |  Mainly Programming Languages
+:-------------------------:|:-------------------------:
+![CSFelix github stats](https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=radical&count_private=true&title_color=9D3BE1&icon_color=EE3EC9&text_color=f8f8ff&bg_color=241e29)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=default&bg_color=241e29&title_color=9d3be1&icon_color=ee3ec9&text_color=f8f8ff)](https://github.com/csfelix/github-readme-stats)
+
 ----
 
 #### 📫 Reach Me 📫
