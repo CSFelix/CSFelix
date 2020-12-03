@@ -25,11 +25,17 @@ Here are some ideas to get you started:
 
 ----
 
-### 💻 Git Stat 💻
+### 💻 Git Stats 💻
 
 WorkFLow                   |  Mainly Programming Languages
 :-------------------------:|:-------------------------:
 ![CSFelix github stats](https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=radical&count_private=true&title_color=9D3BE1&icon_color=EE3EC9&text_color=f8f8ff&bg_color=241e29)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=default&bg_color=241e29&title_color=9d3be1&icon_color=ee3ec9&text_color=f8f8ff)](https://github.com/csfelix/github-readme-stats)
+
+Favorite Web Repo          |  Favorite Python Repo
+:-------------------------:|:-------------------------:
+[![TubeMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)](https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)  |  [![Face_Eye_Motion_Detection](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)](https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)
+
+
 
 ----
 
