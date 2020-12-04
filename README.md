@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 🌱 I'm currently a Science Computer Student that always search for and do projects with some programming and markup languages, like _Python, Java, HTML, CSS and JS_; and, some day I was thinking: "Well, I have unuseful projects (joke 😂😂), and would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, no? *GitHub!!!*
 
-* 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio (when it is made, I gonna put the link here).
+* 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio and you can check it here: **[C0dePlus](https://csfelix.github.io/index.html).**
 
 * 💬 Future Goal: even I studying Science Computer's Bacharel, when finish the course, I gonna study Data Science (I'm thinking about Computer's Vision, so, if you know some online courses about the area, I will be glad to know!!)
 
@@ -36,6 +36,9 @@ Favorite Web Repo          |  Favorite Python Repo
 [![TubeMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)](https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)  |  [![Face_Eye_Motion_Detection](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)](https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)
 
 
+Favorite Java Repo         |  Favorite C# Repo
+:-------------------------:|:-------------------------:
+[![ShareMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME)](https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME)  | [![SAS Crypto](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM)](https://github.com/CSFelix/CSHARP-RSA-ALGORITHM)
 
 ----
 
