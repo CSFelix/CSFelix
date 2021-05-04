@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * 🌱 I'm currently a Science Computer Student that always search for and do projects with some programming and markup languages, like _Python, Java, HTML, CSS and JS_; and, some day I was thinking: "Well, I have unuseful projects (joke 😂😂), and would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, no? *GitHub!!!*
 
-* 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio and you can check it here: **[C0dePlus](https://csfelix.github.io/index.html).**
+* 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio, where you can check it here: **[C0dePlus](https://csfelix.github.io/index.html).**
 
 * 💬 Future Goal: even I studying Computer's Science  Bacharel, when finish the course, I gonna study Data Science (I'm thinking about Computer's Vision, so, if you know some online courses about the area, I will be glad to know!!)
 
