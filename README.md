@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...-
 -->
 
-* 🌱 I'm currently a Science Computer Student that always search for and do projects with some programming and markup languages, like _Python, Java, HTML, CSS and JS_; and, some day I was thinking: "Well, I have unuseful projects (joke 😂😂), and would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, no? *GitHub!!!*
+* 🌱 I'm currently a Computer Science Student that always search for and do projects with some programming and markup languages, like _Python, Java, HTML, CSS and JS_; and, some day I was thinking: "Well, I have unuseful projects (JK 😂😂), and would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, no? *GitHub!!!*
 
 * 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio, where you can check it here: **[C0dePlus](https://csfelix.github.io/index.html).**
 
-* 💬 Future Goal: even I studying Computer's Science  Bacharel, when finish the course, I gonna study Data Science (I'm thinking about Computer's Vision, so, if you know some online courses about the area, I will be glad to know!!)
+* 💬 Future Goal: even I studying Computer Science's Bacharel, when finish the course I'm gonna take one in Data Science (I'm thinking about Computer's Vision, so, if you know any online courses about the area, I will be glad to know!!)
 
 ----
 
@@ -44,11 +44,11 @@ Favorite Java Repo         |  Favorite C# Repo
 
 #### 📫 Reach Me 📫
 
-> **Email:** `csfelix08@gmail.com`
+> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
 
-> **Linkedin:** `linkedin.com/in/csfelix/`
+> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
 
-> **Instagram:** `instagram.com/c0deplus/`
+> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
 
 ----
 
