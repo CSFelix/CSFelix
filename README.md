@@ -50,4 +50,6 @@ Favorite Java Repo         |  Favorite C# Repo
 
 > **Instagram:** `instagram.com/c0deplus/`
 
-> **Portfolio:** `https://csfelix.github.io/`
+----
+
+> **Portfolio:** **[CSFelix.io](https://csfelix.github.io/)**
