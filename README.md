@@ -1,6 +1,10 @@
 ### 👋 Hi there, I'm here AHAHAHAHAHA 👋 (refferences 😐)
 
+<div>
 <img src="https://img.shields.io/github/followers/CSFelix?style=social">
+  &nbsp&nbsp&nbsp
+<img src="https://komarev.com/ghpvc/?username=CSFelix&label=Profile%20views&color=0e75b6&style=flat" alt="CSFelix" />
+</div>
 
 <!--
 **CSFelix/CSFelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +31,11 @@ Here are some ideas to get you started:
 
 ### 💻 Git Stats 💻
 
-WorkFLow                   |  Main Programming Languages
+Streak                  | ---
+:-------------------------:|:-------------------------:
+<img  align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=radical" /> |
+
+WorkFlow                   |  Main Programming Languages
 :-------------------------:|:-------------------------:
 ![CSFelix github stats](https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=radical&count_private=true&title_color=9D3BE1&icon_color=EE3EC9&text_color=f8f8ff&bg_color=241e29)  |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=default&bg_color=241e29&title_color=9d3be1&icon_color=ee3ec9&text_color=f8f8ff)](https://github.com/csfelix/github-readme-stats)
 
