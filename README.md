@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ----
 
-### 💻 Git Stats 💻
+### 💻 Account Stats 💻
 
 Streak                  | ---
 :-------------------------:|:-------------------------:
