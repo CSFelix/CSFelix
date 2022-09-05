@@ -93,11 +93,8 @@ Favorite Java Repo         |  Favorite C# Repo
 #### 📫 Reach Me 📫
 
 <a href="https://www.kaggle.com/dsfelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="32" /></a>
-
 <a href="https://www.linkedin.com/in/csfelix/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" /></a>
-
 <a href="mailto:csfelix08@gmail.com?"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="32" /></a>
-
 <a href="https://www.instagram.com/csfelix08/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="32" /></a>
 
 ----
