@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm here AHAHAHAHAHA 👋 (refferences 😐)
+### 👋 What's shakin'? I'm here AHAHAHAHAHA 👋 (refferences 😐)
 
 <div>
 <img src="https://img.shields.io/github/followers/CSFelix?style=social">
@@ -21,11 +21,51 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...-
 -->
 
-* 🌱 I am a Bachaelor in Computer Science that always search for and do projects with _Python, Java, JS, HTML CSS, MySQL, MongoDB, Redis and Neo4J_; and, some day I was like: "Well, I have unuseful projects (JK 😂😂), and I would like to share with my friends and any person around the world. What place can I do it??". I guess you know the answer, right? *GitHub!!!*
+* 🌱 I am a Bachaelor in Computer Science that's always searching for and doing projects in _Data Science_ and _Web_ areas; and, some day I was like: "Well, I have unuseful projects (JK 😂😂), and I'd like to share them with my friends and any person around the world. What place can I do it??". I guess already you know the answer, right? *GitHub!!!*
 
-* 🤔 Nowadays, I share public projects here, post programming contents in my Instagram's Account: c0deplus (username) and I'm doing my own porfolio, where you can check it here: **[C0dePlus](https://csfelix.github.io/index.html).**
+* 🤔 Nowadays, I share public projects here and in my Personal Portfolio, which you can check out here: **[C0dePlus](https://csfelix.github.io/index.html).**
 
-* 💬 Future Goal: even I studying Computer Science's Bacharel, finishing the degree I'm gonna take one in Data Science (I'm thinking about Computer's Vision, so, if you know any online contents about the area, I will be glad to know!!)
+* 🔭 I'm currently working on Data Science projects (_Machine and Deep Learning_), Node JS, React and React-Native. 
+
+* 💬 Future Goal: apply Machine Learning Models in Web applications, being both the model and the applications created by myself!!
+
+* ⚡Fun Fact: most of my projects has animes, flicks and shows references, I dare you find all of them. By the way, was you able to identify the reference I've put on this Read.Me title? 😂😂
+
+----
+
+> **Working On**
+
+<a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="36"/></a>
+
+<br>
+
+> **Knowledges**
+
+<a href="https://neo4j.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4J" height="32"/></a>
+<a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" height="32"/></a>
+<a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="32"/></a>
+<a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="32"/></a>
+<a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="32"/></a>
+
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="32"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="32"/></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/></a>
+<a href="https://www.canva.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="32"/></a>
+<a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="32"/></a>
+<a href="https://www.opera.com/gx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" alt="Opera GX" height="32"/></a>
+
+
+
+<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="32"/></a>
+<a href="https://www.rstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="32"/></a>
+<a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="32"/></a>
+<a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="32"/></a>
+<a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="32"/></a>
+<a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="32"/></a>
+<a href="https://tomcat.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="TomCat Server" height="32"/></a>
+<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32"/></a>
+
+
 
 ----
 
@@ -52,11 +92,13 @@ Favorite Java Repo         |  Favorite C# Repo
 
 #### 📫 Reach Me 📫
 
-> **Email:** **[csfelix08@gmail.com](mailto:csfelix08@gmail.com?)**
+<a href="https://www.kaggle.com/dsfelix"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="Kaggle" height="32" /></a>
 
-> **Linkedin:** **[linkedin.com/in/csfelix/](https://www.linkedin.com/in/csfelix/)**
+<a href="https://www.linkedin.com/in/csfelix/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="32" /></a>
 
-> **Instagram:** **[instagram.com/c0deplus/](https://www.instagram.com/c0deplus/)**
+<a href="mailto:csfelix08@gmail.com?"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="32" /></a>
+
+<a href="https://www.instagram.com/csfelix08/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" height="32" /></a>
 
 ----
 
