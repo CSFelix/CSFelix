@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 * 🔭 I'm currently working on Data Science projects (_Machine and Deep Learning_), Node JS, React and React-Native. 
 
-* 💬 Future Goal: apply Machine Learning Models in Web applications, being both the model and the applications created by myself!!
+* 💬 Future Goal: apply Machine Learning Models in Web applications, being both the models and the applications created by myself!!
 
 * ⚡Fun Fact: most of my projects has animes, flicks and shows references, I dare you find all of them. By the way, was you able to identify the reference I've put on this Read.Me title? 😂😂
 
