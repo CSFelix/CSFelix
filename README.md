@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 * 🌱 I am a Bachaelor in Computer Science that's always searching for and doing projects in _Data Science_ and _Web_ areas; and, some day I was like: "Well, I have unuseful projects (JK 😂😂), and I'd like to share them with my friends and any person around the world. What place can I do it??". I guess already you know the answer, right? *GitHub!!!*
 
-* 🤔 Nowadays, I share public projects here and in my Personal Portfolio, which you can check out here: **[C0dePlus](https://csfelix.github.io/index.html).**
+* 🤔 Nowadays, I share public projects here and in my Personal Portfolio, which you can check out here: **[CSFelix.io](https://csfelix.github.io/index.html).**
 
 * 🔭 I'm currently working on Data Science projects (_Machine and Deep Learning_), Node JS, React and React-Native. 
 
