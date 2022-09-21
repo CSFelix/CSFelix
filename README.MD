@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://csfelix.github.io)
+[![MasterHead](header_languages.png)](https://csfelix.github.io)
 <h1 align="center">👋 What's shakin'? I'm here AHAHAHAHAHA 👋 (refferences 😐)</h1>
 <h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
 <img align="right" alt="Coding" widht="400" height="300" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" />
@@ -16,6 +16,8 @@
 - 🔭 I'm currently working on **Data Science projects (Machine and Deep Learning), Node JS, React and React-Native.**
 
 <br>
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://csfelix.github.io)
 
 ----
 
