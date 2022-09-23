@@ -42,6 +42,12 @@
 
 ----
 
+<h3 align="left">🏢 Organizations 🏢</h3>
+
+<a href="https://github.com/Code-Plus-CUMI" target="_blank"><img src="assets/organization-code-plus-cumi.png" alt="FX Sistemas App" height="36"/></a>
+
+----
+
 <h3 align="left">⌨️ Languages and Tools ⌨️</h3>
 
 <p align="left">
