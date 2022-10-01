@@ -38,14 +38,15 @@
 
 <h3 align="left">💼 Working For 💼</h3>
 
-<a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="36"/></a>
+<a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="40"/></a>
 
 ----
 
 <h3 align="left">🏢 Organizations 🏢</h3>
 
-<a href="https://github.com/Code-Plus-CUMI" target="_blank"><img src="assets/organization-code-plus-cumi.png" alt="FX Sistemas App" height="36"/></a>
-<a href="https://github.com/Belmares" target="_blank"><img src="assets/organization-belmares.png" alt="FX Sistemas App" height="36"/></a>
+<a href="https://github.com/DSTools-FLX" target="_blank"><img src="assets/organization-dstools-full-column.png" alt="DSTools - Python Package" height="40"/></a>ㅤ
+<a href="https://github.com/Code-Plus-CUMI" target="_blank"><img src="assets/organization-code-plus-cumi.png" alt="FX Sistemas App" height="40"/></a>ㅤ
+<a href="https://github.com/Belmares" target="_blank"><img src="assets/organization-belmares.png" alt="FX Sistemas App" height="40"/></a>
 
 ----
 
