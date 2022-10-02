@@ -44,9 +44,9 @@
 
 <h3 align="left">🏢 Organizations 🏢</h3>
 
-<a href="https://github.com/DSTools-FLX" target="_blank"><img src="assets/organization-dstools-full-column.png" alt="DSTools - Python Package" height="40"/></a>ㅤ
-<a href="https://github.com/Code-Plus-CUMI" target="_blank"><img src="assets/organization-code-plus-cumi.png" alt="FX Sistemas App" height="40"/></a>ㅤ
+<a href="https://github.com/DSTools-FLX" target="_blank"><img src="assets/organization-dstools-new-logo.png" alt="DSTools - Python Package" height="40"/></a>ㅤ
 <a href="https://github.com/Belmares" target="_blank"><img src="assets/organization-belmares.png" alt="FX Sistemas App" height="40"/></a>
+<a href="https://github.com/Code-Plus-CUMI" target="_blank"><img src="assets/organization-code-plus-cumi.png" alt="FX Sistemas App" height="40"/></a>ㅤ
 
 ----
 
