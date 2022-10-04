@@ -3,7 +3,10 @@
 <h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/programmer.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
+  <img src="https://gitwar.herokuapp.com/badge?username=CSFelix" alt="csfelix" />
+</p>
 
 - 💬 Ask me about **Python, Machine Learning and Data Science.**
 
@@ -116,6 +119,12 @@ Favorite Web Repo          |  Favorite Python Repo
 Favorite Java Repo         |  Favorite C# Repo
 :-------------------------:|:-------------------------:
 [![ShareMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME)](https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME)  | [![SAS Crypto](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM)](https://github.com/CSFelix/CSHARP-RSA-ALGORITHM)
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+</div>
 
 ----
 
