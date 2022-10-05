@@ -1,12 +1,4 @@
-[![MasterHead](assets/languages.png)](https://csfelix.github.io)
-<h1 align="center">👋 What's shakin'? I'm here AHAHAHAHAHA 👋 (refferences 😐)</h1>
-<h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
-<img align="right" alt="Coding" widht="400" height="300" src="assets/programmer.gif" />
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
-  <img src="https://gitwar.herokuapp.com/badge?username=CSFelix" alt="csfelix" />
-</p>
 
 - 💬 Ask me about **Python, Machine Learning and Data Science.**
 
