@@ -4,6 +4,7 @@
 <img align="right" alt="Coding" widht="400" height="300" src="assets/programmer.gif" />
 
 <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
   
 </p>
 
