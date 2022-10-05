@@ -4,6 +4,10 @@
 <img align="right" alt="Coding" widht="400" height="300" src="assets/programmer.gif" />
 
 
+<p align="left"> 
+  
+</p>
+
 - 💬 Ask me about **Python, Machine Learning and Data Science.**
 
 <br>
