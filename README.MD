@@ -6,6 +6,7 @@
 
 <p align="left"> 
   
+  <img src="https://gitwar.herokuapp.com/badge?username=CSFelix" alt="csfelix" />
 </p>
 
 - 💬 Ask me about **Python, Machine Learning and Data Science.**
