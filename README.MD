@@ -39,6 +39,8 @@
 
 ----
 
+<img align="right" height="500em" src="assets/cientist and python.gif">
+
 <h3 align="left">💼 Working For 💼</h3>
 
 <a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="40"/></a>
