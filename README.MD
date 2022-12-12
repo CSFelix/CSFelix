@@ -1,7 +1,7 @@
-[![MasterHead](assets/languages.png)](https://csfelix.github.io)
+[![MasterHead](assets/languages2.png)](https://csfelix.github.io)
 <h1 align="center">👋 What's shakin', bacon? I'm here AHAHAHAHAHA 👋 (refferences 😐)</h1>
 <h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
-<img align="right" alt="Coding" widht="400" height="300" src="assets/programmer.gif" />
+<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
 
 <p align="left"> 
@@ -20,7 +20,7 @@
 
 <br><br>
 
-[![MasterHead](assets/android-developer-banner.gif)](https://csfelix.github.io)
+[![MasterHead](assets/languages.png)](https://csfelix.github.io)
 
 ----
 
