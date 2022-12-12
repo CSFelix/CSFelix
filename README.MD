@@ -24,12 +24,27 @@
 
 ----
 
-<h3 align="left">🏆 Trophies 🏆</h3>
+<h3 align="left">🥇 Kaggle Stats</h3>
+
+<div align="center">
+  <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
+</div>
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/competitions" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/discussion" />
+</p>
+
+----
+
+<h3 align="left">🏆 Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=dracula&no-frame=true&margin-h=15" alt="csfelix" /></a> </p>
 
 ----
 
-<h3 align="left">📇 Connect with me 📇</h3>
+<h3 align="left">📇 Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/csfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csfelix" height="30" width="40" /></a>
 <a href="https://kaggle.com/dsfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dsfelix" height="30" width="40" /></a>
@@ -41,13 +56,13 @@
 
 <img align="right" height="500em" src="assets/cientist and python.gif">
 
-<h3 align="left">💼 Working For 💼</h3>
+<h3 align="left">💼 Working For</h3>
 
 <a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="40"/></a>
 
 ----
 
-<h3 align="left">🏢 Organizations 🏢</h3>
+<h3 align="left">🏢 Organizations</h3>
 
 <a href="https://github.com/FX-Sistemas" target="_blank"><img src="assets/fx_sistemas_logo.png" alt="FX Sistemas - WhatsApp" height="40"/></a>
 <a href="https://github.com/DSTools-FLX" target="_blank"><img src="assets/organization-dstools-new-logo.png" alt="DSTools - Python Package" height="40"/></a>
@@ -56,7 +71,7 @@
 
 ----
 
-<h3 align="left">⌨️ Languages and Tools ⌨️</h3>
+<h3 align="left">⌨️ Languages and Tools</h3>
 
 <p align="left">
 <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="32"/></a>
@@ -68,6 +83,7 @@
 </p>
 
 <p align="left">
+<a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="32" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="32"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="32"/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/></a>
@@ -98,7 +114,7 @@
 
 ----
 
-<h3 align="left">💻 Account Stats 💻</h3>
+<h3 align="left">💻 Account Stats</h3>
 
 <br>
 
@@ -112,7 +128,7 @@
 
 ----
 
-<h3 align="left">🌟 Fav Repos 🌟</h3>
+<h3 align="left">🌟 Fav Repos</h3>
 
 Favorite Web Repo          |  Favorite Python Repo
 :-------------------------:|:-------------------------:
@@ -131,7 +147,7 @@ Favorite Java Repo         |  Favorite C# Repo
 
 ----
 
-<h3 align="left">🍺 Support 🍺</h3>
+<h3 align="left">🍺 Support</h3>
 <div align="left">
   <a href="https://www.buymeacoffee.com/csfelix08d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="csfelix08d"></a><br><br>
   <a href="https://github.com/sponsors/CSFelix" ><img alt="Coding" widht="200" height="200" src="assets/git-hub-sponsor.png" /></a>
@@ -139,7 +155,8 @@ Favorite Java Repo         |  Favorite C# Repo
 
 ----
 
-<h3 align="left">📊 Data Science for Everyone 📊</h3>
+<h3 align="left">📊 Data Science for Everyone</h3>
 
+<p>Tap the GIF to see my Kaggle Account</p>
 
 [![MasterHead](assets/data-science.gif)](https://kaggle.com/dsfelix)
