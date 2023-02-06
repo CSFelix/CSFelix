@@ -22,7 +22,7 @@
 
 [![MasterHead](assets/languages.png)](https://csfelix.github.io)
 
-----
+<!-- ----
 
 <h3 align="left">🥇 Kaggle Stats</h3>
 
@@ -35,7 +35,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/dataset" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/notebook" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/discussion" />
-</p>
+</p> -->
 
 ----
 
