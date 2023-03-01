@@ -119,11 +119,13 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=compact&bg_color=241e29&title_color=9d3be1&icon_color=ee3ec9&text_color=f8f8ff)](https://github.com/csfelix/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/csfelix/github-readme-stats" />
   <br><br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=radical" />
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=tokyonight" />
   <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=radical&count_private=true&title_color=9D3BE1&icon_color=EE3EC9&text_color=f8f8ff&bg_color=241e29" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true" />
+  <br><br>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" />
 </div>
 
 ----
@@ -132,17 +134,17 @@
 
 Favorite Web Repo          |  Favorite Python Repo
 :-------------------------:|:-------------------------:
-[![TubeMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)](https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)  |  [![Face_Eye_Motion_Detection](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)](https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)
+[![TubeMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME&theme=tokyonight)](https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)  |  [![Face_Eye_Motion_Detection](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION&theme=tokyonight)](https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)
 
 
 Favorite Java Repo         |  Favorite C# Repo
 :-------------------------:|:-------------------------:
-[![ShareMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME)](https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME)  | [![SAS Crypto](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM)](https://github.com/CSFelix/CSHARP-RSA-ALGORITHM)
+[![ShareMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME&theme=tokyonight)](https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME)  | [![SAS Crypto](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM&theme=tokyonight)](https://github.com/CSFelix/CSHARP-RSA-ALGORITHM)
 
 <br>
 
 <div align="center">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes" />
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />
 </div>
 
 ----
