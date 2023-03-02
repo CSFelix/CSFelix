@@ -18,31 +18,18 @@
 
 - 🔭 I'm currently working on **Data Science projects (Machine and Deep Learning), Node JS, React and React-Native.**
 
+- 💻 Oh, and I am on **Discord** too!
+
+<br>
+
+<img align="center" src="https://discord-readme-badge.vercel.app/api?id=584801134959394817" />
+
 <br><br>
-
-[![MasterHead](assets/languages.png)](https://csfelix.github.io)
-
-<!-- ----
-
-<h3 align="left">🥇 Kaggle Stats</h3>
-
-<div align="center">
-  <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
-</div>
-
-<p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/competitions" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/discussion" />
-</p> -->
 
 ----
 
 <h3 align="left">🏆 Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=4" alt="csfelix" /></a> </p>
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=584801134959394817)
 
 ----
 
@@ -120,11 +107,11 @@
 <br>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/csfelix/github-readme-stats" />
-  <br><br>
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=compact&langs_count=8&theme=tokyonight" />
   <br><br>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true" />
+  <br><br>
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=tokyonight" />
   <br><br>
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" />
 </div>
@@ -142,24 +129,25 @@ Favorite Java Repo         |  Favorite C# Repo
 :-------------------------:|:-------------------------:
 [![ShareMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME&theme=tokyonight)](https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME)  | [![SAS Crypto](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM&theme=tokyonight)](https://github.com/CSFelix/CSHARP-RSA-ALGORITHM)
 
+----
+
+<h3 align="left">🍺 Support Me</h3>
+<div align="center">
+  <a href="https://github.com/sponsors/CSFelix"><img alt="Coding" widht="200" height="200" src="assets/git-hub-sponsor.png" /></a>
+  <br><br>
+  <a href="https://www.buymeacoffee.com/csfelix08d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="csfelix08d"></a>
+</div>
+
+<br><br>
+
+----
+
 <br>
 
 <div align="center">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes" />
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight")](https://github.com/piyushsuthar/github-readme-quotes" />
 </div>
 
-----
+<br>
 
-<h3 align="left">🍺 Support</h3>
-<div align="left">
-  <a href="https://www.buymeacoffee.com/csfelix08d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="csfelix08d"></a><br><br>
-  <a href="https://github.com/sponsors/CSFelix" ><img alt="Coding" widht="200" height="200" src="assets/git-hub-sponsor.png" /></a>
-</div>
-
-----
-
-<h3 align="left">📊 Data Science for Everyone</h3>
-
-<p>Tap the GIF to see my Kaggle Account</p>
-
-[![MasterHead](assets/data-science.gif)](https://kaggle.com/dsfelix)
+[![MasterHead](assets/languages.png)](https://csfelix.github.io)
