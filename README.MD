@@ -40,7 +40,9 @@
 ----
 
 <h3 align="left">🏆 Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=7" alt="csfelix" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=4" alt="csfelix" /></a> </p>
+
+![My Discord](https://discord-readme-badge.vercel.app/api?id=584801134959394817)
 
 ----
 
