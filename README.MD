@@ -32,6 +32,8 @@
 
 ----
 
+<img align="right" height="350em" src="assets/cientist and python.gif">
+
 <h3 align="left">📇 Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/csfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csfelix" height="30" width="40" /></a>
@@ -42,62 +44,18 @@
 
 ----
 
-<img align="right" height="500em" src="assets/cientist and python.gif">
-
 <h3 align="left">💼 Working For</h3>
 
 <a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="40"/></a>
 
 ----
 
-<h3 align="left">🏢 Organizations</h3>
-
-<a href="https://github.com/FX-Sistemas" target="_blank"><img src="assets/fx_sistemas_logo.png" alt="FX Sistemas - WhatsApp" height="40"/></a>
-<a href="https://github.com/Belmares" target="_blank"><img src="assets/organization-belmares.png" alt="FX Sistemas App" height="40"/></a>
-<a href="https://github.com/Code-Plus-CUMI" target="_blank"><img src="assets/organization-code-plus-cumi.png" alt="FX Sistemas App" height="40"/></a>
-
-----
-
 <h3 align="left">⌨️ Languages and Tools</h3>
 
-<p align="left">
-<a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="32"/></a>
-<a href="https://neo4j.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" alt="Neo4J" height="32"/></a>
-<a href="https://redis.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="Redis" height="32"/></a>
-<a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="32"/></a>
-<a href="https://www.sqlite.org/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="32"/></a>
-<a href="https://www.mysql.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="32"/></a>
-</p>
-
-<p align="left">
-<a href="https://www.typescriptlang.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="32" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="32"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="32"/></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="32"/></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel"  height="32"/> </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="32"/> </a>
-<a href="https://www.canva.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" height="32"/></a>
-<a href="https://www.figma.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="32"/></a>
-<a href="https://www.opera.com/gx"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" alt="Opera GX" height="32"/></a>
-</p>
-
-<p align="left">
-<a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="32"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" height="32"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="32"/> </a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height="32"/> </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" height="32"/> </a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="32"/> </a>
-<a href="https://www.rstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" height="32"/></a>
-<a href="https://jupyter.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="32"/></a>
-<a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" height="32"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="32"/> </a>
-<a href="https://reactjs.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="32"/></a>
-<a href="https://sequelize.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize" height="32"/></a>
-<a href="https://www.java.com/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="32"/></a>
-<a href="https://tomcat.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" alt="TomCat Server" height="32"/></a>
-<a href="https://git-scm.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="32"/></a>
-</p>
+<a href="https://github.com/Jurredr/github-widgetbox">
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=csfelix&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,r,xml,json,postgresql,mysql,markdown&tools=git,docker,npm,yarn,mongodb,wordpress,vercel,redis,nodejs,jupyter,prettier&frameworks=vue,react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+</a>
 
 ----
 
