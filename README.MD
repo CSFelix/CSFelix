@@ -120,14 +120,20 @@
 
 <h3 align="left">🌟 Fav Repos</h3>
 
-Favorite Web Repo          |  Favorite Python Repo
-:-------------------------:|:-------------------------:
-[![TubeMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME&theme=tokyonight)](https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME)  |  [![Face_Eye_Motion_Detection](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION&theme=tokyonight)](https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION)
+<div align="center">
 
 
-Favorite Java Repo         |  Favorite C# Repo
-:-------------------------:|:-------------------------:
-[![ShareMe](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME&theme=tokyonight)](https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME)  | [![SAS Crypto](https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM&theme=tokyonight)](https://github.com/CSFelix/CSHARP-RSA-ALGORITHM)
+  <a href="https://github.com/CSFelix/HTML-CSS-JAVASCRIPT-NODEJS-TUBEME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=HTML-CSS-JAVASCRIPT-NODEJS-TUBEME&theme=tokyonight" alt="Repo" /></a>
+  
+  
+  <a href="https://github.com/CSFelix/PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=PYTHON-OPENCV-WEBCAM-FACE-EYE-MOTION-DETECTION&theme=tokyonight" alt="Repo" /></a>
+
+
+  <a href="https://github.com/CSFelix/JAVA-JSP-CS-JAVASCRIPT-SHAREME"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=JAVA-JSP-CS-JAVASCRIPT-SHAREME&theme=tokyonight" alt="Repo" /></a>
+
+
+  <a href="https://github.com/CSFelix/CSHARP-RSA-ALGORITHM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM&theme=tokyonight" alt="Repo" /></a>
+</div>
 
 ----
 
