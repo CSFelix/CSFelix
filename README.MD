@@ -3,7 +3,6 @@
 <h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
-
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
 </p>
@@ -29,7 +28,7 @@
 ----
 
 <h3 align="left">🏆 Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=4" alt="csfelix" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=11" alt="csfelix" /></a> </p>
 
 ----
 
