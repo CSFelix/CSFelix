@@ -1,5 +1,5 @@
 [![MasterHead](assets/languages2.png)](https://csfelix.github.io)
-<h1 align="center">👋 What's shakin', bacon? I'm here AHAHAHAHAHA 👋 (refferences 😐)</h1>
+<h1 align="center">👋 What's shakin', bacon? 👋</h1>
 <h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
@@ -25,22 +25,15 @@
 
 <br><br>
 
+<a href="https://github.com/Jurredr/github-widgetbox">
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=csfelix&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,r,xml,json,postgresql,mysql,markdown&tools=git,docker,npm,yarn,mongodb,wordpress,vercel,redis,nodejs,jupyter,prettier&frameworks=vue,react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+</a>
+
 ----
 
 <h3 align="left">🏆 Trophies</h3>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=4" alt="csfelix" /></a> </p>
-
-----
-
-<img align="right" height="350em" src="assets/cientist and python.gif">
-
-<h3 align="left">📇 Connect with me</h3>
-<p align="left">
-<a href="https://linkedin.com/in/csfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csfelix" height="30" width="40" /></a>
-<a href="https://kaggle.com/dsfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dsfelix" height="30" width="40" /></a>
-<a href="https://instagram.com/csfelix08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csfelix08" height="30" width="40" /></a>
-<a href="mailto:csfelix08@gmail.com?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="csfelix" /></a> </p>
 
 ----
 
@@ -50,12 +43,13 @@
 
 ----
 
-<h3 align="left">⌨️ Languages and Tools</h3>
-
-<a href="https://github.com/Jurredr/github-widgetbox">
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=csfelix&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,r,xml,json,postgresql,mysql,markdown&tools=git,docker,npm,yarn,mongodb,wordpress,vercel,redis,nodejs,jupyter,prettier&frameworks=vue,react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
-</a>
+<h3 align="left">📇 Connect with me</h3>
+<p align="left">
+<a href="https://linkedin.com/in/csfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csfelix" height="30" width="40" /></a>
+<a href="https://kaggle.com/dsfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dsfelix" height="30" width="40" /></a>
+<a href="https://instagram.com/csfelix08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csfelix08" height="30" width="40" /></a>
+<a href="mailto:csfelix08@gmail.com?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
+</p>
 
 ----
 
