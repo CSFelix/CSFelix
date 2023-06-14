@@ -63,8 +63,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true" />
   <br><br>
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=tokyonight" />
-<!--   <br><br>
-  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" /> -->
+  <br><br>
+  <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" />
 </div>
 
 ----
