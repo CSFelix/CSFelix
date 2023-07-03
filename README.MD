@@ -31,6 +31,20 @@
 </a>
 
 ----
+<h3 align="left">🥇 Kaggle Statistics</h3>
+
+<div align="center">
+  <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
+</div>
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/competitions" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/discussion" />
+</p>
+
+----
 
 <h3 align="left">🏆 Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="csfelix" /></a> </p>
