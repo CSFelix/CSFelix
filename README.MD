@@ -33,6 +33,8 @@
 ----
 <h3 align="left">🥇 Kaggle Statistics</h3>
 
+<center><img src  = "./assets/road-kaggle.png"></center>
+
 <div align="center">
   <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
 </div>
