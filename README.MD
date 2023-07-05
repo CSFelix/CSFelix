@@ -127,7 +127,7 @@
 
 Counting of visitors to this page in this section started from July 5, 2023
 
-<a href="https://info.flagcounter.com/a6na"><img src="https://s01.flagcounter.com/count2/a6na/bg_0a0047/txt_004687/border_0a0047/columns_8/maxflags_40/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/lAyb"><img src="https://s11.flagcounter.com/count2/lAyb/bg_f6f6ff/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 <img src="https://count.getloli.com/get/@CSFelix.github.readme" alt="Visitors" />
 
 <br>
