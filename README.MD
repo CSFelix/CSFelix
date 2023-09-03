@@ -27,7 +27,7 @@
 
 <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=csfelix&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,r,xml,json,postgresql,mysql,markdown&tools=git,docker,npm,yarn,mongodb,wordpress,vercel,redis,nodejs,jupyter,prettier&frameworks=vue,react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python, r,js,ts,html,css,xml,json,postgresql,mysql,markdown&tools=jupyter,git,docker,npm,yarn,mongodb,redis,nodejs&frameworks=react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
 </a>
 
 ----
@@ -63,7 +63,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/csfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="csfelix" height="30" width="40" /></a>
 <a href="https://kaggle.com/dsfelix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dsfelix" height="30" width="40" /></a>
-<a href="https://instagram.com/csfelix08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csfelix08" height="30" width="40" /></a>
+<a href="https://instagram.com/dsplus_datascience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="csfelix08" height="30" width="40" /></a>
 <a href="mailto:csfelix08@gmail.com?" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
@@ -83,6 +83,7 @@
   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=csfelix&theme=tokyo-night" /> -->
 </div>
 
+<!--
 ----
 
 <h3 align="left">🌟 Fav Repos</h3>
@@ -101,6 +102,7 @@
 
   <a href="https://github.com/CSFelix/CSHARP-RSA-ALGORITHM"><img src="https://github-readme-stats.vercel.app/api/pin/?username=csfelix&repo=CSHARP-RSA-ALGORITHM&theme=tokyonight" alt="Repo" /></a>
 </div>
+-->
 
 ----
 
@@ -126,8 +128,6 @@
 <h3 align="left">👽 Visitors</h3>
 
 Counting of visitors to this page in this section started from July 5, 2023
-
-<a href="https://info.flagcounter.com/lAyb"><img src="https://s11.flagcounter.com/count2/lAyb/bg_f6f6ff/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <img src="https://count.getloli.com/get/@CSFelix.github.readme?theme=rule34" alt="Visitors" />
 
