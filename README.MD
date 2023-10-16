@@ -1,7 +1,8 @@
 [![MasterHead](assets/languages2.png)](https://csfelix.github.io)
 <h1 align="center">👋 What's shakin', bacon? 👋</h1>
-<h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>
-<img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+What%27s+shakin%27%2C+bacon%3F+%F0%9F%91%8B;I%27m+CSFelix%2C+a+passionate+Programmer+and+Student+from+Brazil)](https://git.io/typing-svg)
+<!-- <h3 align="center">I'm CSFelix, a passionate Programmer and Student from Brazil</h3>-->
+<!-- <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />-->
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
