@@ -15,7 +15,7 @@
 
 <br>
 
-- 🔭 I'm currently working on **Data Science projects (Machine and Deep Learning), Node JS, React and React-Native.**
+- 🔭 I'm currently working on **Data Science Projects.**
 
 - 💻 Oh, and I am on **Discord** too!
 
