@@ -1,23 +1,21 @@
 [![MasterHead](assets/languages2.png)](https://csfelix.github.io)
-<h1 align="center">👋 What's shakin', bacon? 👋</h1>
-<h3 align="center">I'm CSFelix, a Brazilian Data Scientist</h3>
+<h1 align="center">What's shakin', bacon? 👋</h1>
+<h1 align="center">CSFelix here, a Brazilian Data Scientist</h1>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
 </p>
 
-- 💬 Talk? Yeah, we can talk about **Python, Julia, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
+- 💬 Talk? Yeah, we can talk about **Python, Julia, SQL, Neo4J and Cypher, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
 
 - 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Julia Programming Language Skills**
 
-- 🌐 Languages: Brazilian Portuguese (native), American English (fluent) and French (begginer).
+- 🌐  Desiring to reach me? Consider using one of these languages: Brazilian Portuguese (native), American English (fluent) and French (begginer).
 
-<br>
+- 🤔 You can find out more about me and my projects on my Personal Portfolio: [CSFelix.io](https://csfelix.github.io/index.html).
 
-- 🤔 You can find more about me and my projects on my Personal Portfolio: [CSFelix.io](https://csfelix.github.io/index.html).
-
-- 💻 Oh, and I am on **Discord** too!
+- 💻 Oh, and I'm on **Discord** too!
 
 <br>
 
