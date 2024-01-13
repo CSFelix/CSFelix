@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
 </p>
 
-- 💬 Talk? Yeah, we can talk about **Python, Julia, SQL, Neo4J and Cypher, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
+- 💬 Talk? Yeah, we can talk about **Python, Julia, R, Solidity, SQL, Neo4J and Cypher, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
 
 - 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Julia Programming Language Skills**
 
