@@ -11,7 +11,7 @@
 
 - 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Julia Programming Language Skills**
 
-- 🌐  Desiring to reach me? Consider using one of these languages: Brazilian Portuguese (native), American English (fluent) and French (begginer).
+- 🌐  Desiring to reach me? Consider using one of these languages: Brazilian Portuguese (native), American English (fluent) and French (beginner).
 
 - 🤔 You can find out more about me and my projects on my Personal Portfolio: [CSFelix.io](https://csfelix.github.io/index.html).
 
