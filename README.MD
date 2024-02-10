@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
 </p>
 
-- 💬 Talk? Yeah, we can talk about **Python, Julia, R, Solidity, SQL, Neo4J and Cypher, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
+- 💬 Talk? Yeah, we can talk about **Python, Julia, R, SQL, Neo4J and Cypher, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
 
 - 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Julia Programming Language Skills**
 
@@ -25,7 +25,7 @@
 
 <a href="https://github.com/Jurredr/github-widgetbox">
      <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=csfelix&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />
-     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,solidity,json,xml,mysql,postgresql,markdown,ts,js,html,css&libraries=tensorflow&tools=jupyter,redis,mongodb,git,nodejs,yarn,npm&frameworks=react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/skills?languages=python,r,json,xml,mysql,postgresql,markdown,ts,js,html,css&libraries=tensorflow&tools=jupyter,redis,mongodb,git,nodejs,yarn,npm&frameworks=react,express&software=linux,windows,vscode&includeNames=true&theme=aether" alt="GitHub WidgetBox" />
 </a>
 
 ----
