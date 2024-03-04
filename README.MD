@@ -33,9 +33,9 @@
 
 <center><img src  = "./assets/road-kaggle.png"></center>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
-</div>
+</div> -->
 
 <!-- <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/competitions" />
