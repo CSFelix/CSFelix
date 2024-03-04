@@ -15,11 +15,11 @@
 
 - 🤔 You can find out more about me and my projects on my Personal Portfolio: [CSFelix.io](https://csfelix.github.io/index.html).
 
-- 💻 Oh, and I'm on **Discord** too!
+<!-- - 💻 Oh, and I'm on **Discord** too!
 
 <br>
 
-<img align="center" src="https://discord-readme-badge.vercel.app/api?id=584801134959394817" />
+<img align="center" src="https://discord-readme-badge.vercel.app/api?id=584801134959394817" /> -->
 
 <br><br>
 
@@ -37,12 +37,12 @@
   <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/competitions" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/dataset" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/notebook" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/discussion" />
-</p>
+</p> -->
 
 ----
 
