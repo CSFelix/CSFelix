@@ -110,10 +110,6 @@
 
 <h3 align="left">🍺 Support Me</h3>
 <div align="center">
-  <a href="https://github.com/sponsors/CSFelix"><img alt="Coding" widht="200" height="200" src="assets/git-hub-sponsor.png" /></a>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/csfelix08d"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210" alt="csfelix08d"></a>
-  <br><br>
   <a href="https://contra.com/_csfelix08_?utm_campaign=HireMeOnContra&utm_medium=7f7e2ac5-22dd-4496-8878-fc01b0288c54"><img src="https://contra.com/static/embed/media/hiremeoncontra-dark.png" alt="Hire me on Contra" height="50" width="210" /></a>
 </div>
 
