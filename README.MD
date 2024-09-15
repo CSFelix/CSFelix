@@ -1,5 +1,5 @@
 [![MasterHead](assets/languages2.png)](https://csfelix.github.io)
-<h1 align="center">What's shakin', bacon? 👋</h1>
+<h1 align="center">What's shakin', bacon? 👋🥓</h1>
 <h1 align="center">CSFelix here, a Brazilian Data Scientist :octocat:</h1>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=csfelix&label=Profile%20views&color=0e75b6&style=flat" alt="csfelix" /> 
 </p>
 
-- 💬 Talk? Yeah, we can talk about **Python, Julia, R, SQL, Neo4J and Cypher, Data Science, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
+- 💬 Talk? Yeah, we can talk about **Data Science, Data Wranglign, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
 
-- 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Julia Programming Language Skills**
+- 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Analytic Skills**
 
-- 🌐  Desiring to reach me? Consider using one of these languages: Brazilian Portuguese (native), American English (fluent) and French (beginner).
+- 🌐  Desiring to reach me? Consider using one of these languages: English and Portuguese.
 
 - 🤔 You can find out more about me and my projects on my Personal Portfolio: [CSFelix.io](https://csfelix.github.io/index.html).
 
@@ -29,22 +29,6 @@
 </a>
 
 ----
-<h3 align="left">🥇 Kaggle Statistics</h3>
-
-<center><img src  = "./assets/road-kaggle.png"></center>
-
-<!-- <div align="center">
-  <a href="https://www.kaggle.com/dsfelix"><img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/dsfelix" /></a>
-</div> -->
-
-<!-- <p align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/competitions" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/dataset" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/notebook" />
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/dsfelix/discussion" />
-</p> -->
-
-----
 
 <h3 align="left">🏆 Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="csfelix" /></a> </p>
@@ -58,7 +42,7 @@
 <a href="https://contra.com/_csfelix08_?utm_campaign=HireMeOnContra&utm_medium=7f7e2ac5-22dd-4496-8878-fc01b0288c54" target="_blank"><img src="./assets/contra.png" alt="Contra Freelancing" height="40"/></a>
 </p>
 
-----
+<br>
 
 <h3 align="left">📇 Connect with me</h3>
 <p align="left">
@@ -122,14 +106,6 @@
 <div align="center">
   <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight")](https://github.com/piyushsuthar/github-readme-quotes" />
 </div>
-
-----
-
-<h3 align="left">👽 Visitors</h3>
-
-Counting of visitors to this page in this section started from July 5, 2023
-
-<img src="https://count.getloli.com/get/@CSFelix.github.readme?theme=rule34" alt="Visitors" />
 
 <br>
 
