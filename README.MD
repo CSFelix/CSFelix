@@ -9,7 +9,7 @@
 
 - 💬 Talk? Yeah, we can talk about **Data Science, Data Wrangling, Data Visualization, Machine Learning, Deep Learning and stuff like that...**
 
-- 🔭 I'm currently working on **Data Science Projects, such as Recommendation Systems, and improving my Analytic Skills**
+- 🔭 I'm currently working on **Data Science Projects, such as Natural Language Prcessing (NLP), and improving my Analytic Skills**
 
 - 🌐  Desiring to reach me? Consider using one of these languages: English and Portuguese.
 
