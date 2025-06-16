@@ -62,7 +62,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=csfelix&layout=compact&langs_count=8&theme=tokyonight" />
   <br><br>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true&rank_icon=percentile" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=csfelix&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" /> <!-- rank_icon: github, percentile, default -->
   <br><br>
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CSFelix&theme=tokyonight" />
 <!--   <br><br>
