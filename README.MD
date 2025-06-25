@@ -39,7 +39,7 @@
 
 <p align="left">
 <a href="https://www.fxsistemas.com.br" target="_blank"><img src="https://avatars.githubusercontent.com/u/73619303" alt="FX Sistemas App" height="40"/></a>
-<a href="https://contra.com/_csfelix08_?utm_campaign=HireMeOnContra&utm_medium=7f7e2ac5-22dd-4496-8878-fc01b0288c54" target="_blank"><img src="./assets/contra.png" alt="Contra Freelancing" height="40"/></a>
+<a href="https://vanhack.com/vanhacker/23d099cd-9377-40e3-ad49-d8a1633e00e8" target="_blank"><img src="./assets/vanhack.jpg" alt="VanHacker" height="40"/></a>
 </p>
 
 <br>
