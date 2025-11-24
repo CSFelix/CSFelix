@@ -31,8 +31,7 @@
 ----
 
 <h3 align="left">🏆 Trophies</h3>
-
-![](https://github-trophies.vercel.app/?username=csfelix)
+<p align="center"><img src="https://github-trophies.vercel.app/?username=csfelix" alt="csfelix" /></p>
 
 ----
 
