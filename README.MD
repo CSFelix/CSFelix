@@ -31,7 +31,11 @@
 ----
 
 <h3 align="left">🏆 Trophies</h3>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=csfelix&theme=discord&no-frame=true&margin-h=15&margin-w=15&column=5" alt="csfelix" /></a></p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=csfelix" alt="csfelix" />
+  </a>
+</p>
 
 ----
 
