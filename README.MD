@@ -31,6 +31,7 @@
 ----
 
 <h3 align="left">🏆 Trophies</h3>
+
 ![](https://github-trophies.vercel.app/?username=csfelix)
 
 ----
