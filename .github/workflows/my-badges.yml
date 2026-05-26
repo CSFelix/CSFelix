@@ -3,7 +3,7 @@ name: my-badges
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
