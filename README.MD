@@ -1,9 +1,6 @@
 [![MasterHead](assets/languages2.png)](https://csfelix.github.io)
 <h1 align="center">What's shakin', bacon? 👋🥓</h1>
 
-<!-- my-badges start -->
-<!-- my-badges end -->
-
 <h1 align="center">CSFelix here, a Brazilian Data Scientist :octocat:</h1>
 <img align="right" alt="Coding" widht="400" height="300" src="assets/data-scientist.gif" />
 
